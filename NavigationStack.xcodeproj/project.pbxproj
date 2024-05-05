@@ -11,6 +11,20 @@
 		9B3098B92B6795C300172C62 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3098B82B6795C300172C62 /* ContentView.swift */; };
 		9B3098BB2B6795C500172C62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B3098BA2B6795C500172C62 /* Assets.xcassets */; };
 		9B3098BE2B6795C500172C62 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B3098BD2B6795C500172C62 /* Preview Assets.xcassets */; };
+		9B3098C52B679B5600172C62 /* FlowVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3098C42B679B5600172C62 /* FlowVM.swift */; };
+		9B3098C72B68BEBF00172C62 /* HomeVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3098C62B68BEBF00172C62 /* HomeVM.swift */; };
+		9B3098C92B68E67C00172C62 /* FirstTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3098C82B68E67C00172C62 /* FirstTabView.swift */; };
+		9B3098CC2B68EC3400172C62 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3098CB2B68EC3400172C62 /* DetailView.swift */; };
+		9B3098CF2B68F79D00172C62 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3098CE2B68F79D00172C62 /* Book.swift */; };
+		9B3098D22B68F8BD00172C62 /* SecondTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3098D12B68F8BD00172C62 /* SecondTabView.swift */; };
+		9B3098D42B68FA1600172C62 /* BookDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3098D32B68FA1600172C62 /* BookDestinationView.swift */; };
+		9B3098D72B68FF2C00172C62 /* ThirdTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3098D62B68FF2C00172C62 /* ThirdTabView.swift */; };
+		9B3098D92B68FF5000172C62 /* Song.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3098D82B68FF5000172C62 /* Song.swift */; };
+		9B3098DB2B68FF5A00172C62 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3098DA2B68FF5A00172C62 /* Movie.swift */; };
+		9B3098DD2B68FFFE00172C62 /* ModelDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3098DC2B68FFFE00172C62 /* ModelDataManager.swift */; };
+		9B3098DF2B6900F400172C62 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3098DE2B6900F400172C62 /* RootView.swift */; };
+		9B3098E22B6A01E100172C62 /* NavigationStateManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3098E12B6A01E100172C62 /* NavigationStateManager.swift */; };
+		9B3098E42B6A153000172C62 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3098E32B6A153000172C62 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,20 @@
 		9B3098B82B6795C300172C62 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9B3098BA2B6795C500172C62 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B3098BD2B6795C500172C62 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9B3098C42B679B5600172C62 /* FlowVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowVM.swift; sourceTree = "<group>"; };
+		9B3098C62B68BEBF00172C62 /* HomeVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVM.swift; sourceTree = "<group>"; };
+		9B3098C82B68E67C00172C62 /* FirstTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstTabView.swift; sourceTree = "<group>"; };
+		9B3098CB2B68EC3400172C62 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		9B3098CE2B68F79D00172C62 /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
+		9B3098D12B68F8BD00172C62 /* SecondTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondTabView.swift; sourceTree = "<group>"; };
+		9B3098D32B68FA1600172C62 /* BookDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookDestinationView.swift; sourceTree = "<group>"; };
+		9B3098D62B68FF2C00172C62 /* ThirdTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdTabView.swift; sourceTree = "<group>"; };
+		9B3098D82B68FF5000172C62 /* Song.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Song.swift; sourceTree = "<group>"; };
+		9B3098DA2B68FF5A00172C62 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
+		9B3098DC2B68FFFE00172C62 /* ModelDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelDataManager.swift; sourceTree = "<group>"; };
+		9B3098DE2B6900F400172C62 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		9B3098E12B6A01E100172C62 /* NavigationStateManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStateManager.swift; sourceTree = "<group>"; };
+		9B3098E32B6A153000172C62 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +79,17 @@
 		9B3098B52B6795C300172C62 /* NavigationStack */ = {
 			isa = PBXGroup;
 			children = (
+				9B3098E02B6A01C300172C62 /* viewModel */,
+				9B3098D52B68FF1900172C62 /* thirdTab */,
+				9B3098D02B68F8A800172C62 /* secondTab */,
+				9B3098CD2B68F78C00172C62 /* model */,
+				9B3098CA2B68EC2200172C62 /* firstTab */,
 				9B3098B62B6795C300172C62 /* NavigationStackApp.swift */,
 				9B3098B82B6795C300172C62 /* ContentView.swift */,
 				9B3098BA2B6795C500172C62 /* Assets.xcassets */,
 				9B3098BC2B6795C500172C62 /* Preview Content */,
+				9B3098C42B679B5600172C62 /* FlowVM.swift */,
+				9B3098C62B68BEBF00172C62 /* HomeVM.swift */,
 			);
 			path = NavigationStack;
 			sourceTree = "<group>";
@@ -65,6 +100,53 @@
 				9B3098BD2B6795C500172C62 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9B3098CA2B68EC2200172C62 /* firstTab */ = {
+			isa = PBXGroup;
+			children = (
+				9B3098C82B68E67C00172C62 /* FirstTabView.swift */,
+				9B3098CB2B68EC3400172C62 /* DetailView.swift */,
+			);
+			path = firstTab;
+			sourceTree = "<group>";
+		};
+		9B3098CD2B68F78C00172C62 /* model */ = {
+			isa = PBXGroup;
+			children = (
+				9B3098CE2B68F79D00172C62 /* Book.swift */,
+				9B3098D82B68FF5000172C62 /* Song.swift */,
+				9B3098DA2B68FF5A00172C62 /* Movie.swift */,
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		9B3098D02B68F8A800172C62 /* secondTab */ = {
+			isa = PBXGroup;
+			children = (
+				9B3098D12B68F8BD00172C62 /* SecondTabView.swift */,
+				9B3098D32B68FA1600172C62 /* BookDestinationView.swift */,
+			);
+			path = secondTab;
+			sourceTree = "<group>";
+		};
+		9B3098D52B68FF1900172C62 /* thirdTab */ = {
+			isa = PBXGroup;
+			children = (
+				9B3098D62B68FF2C00172C62 /* ThirdTabView.swift */,
+				9B3098DE2B6900F400172C62 /* RootView.swift */,
+				9B3098E32B6A153000172C62 /* SettingsView.swift */,
+			);
+			path = thirdTab;
+			sourceTree = "<group>";
+		};
+		9B3098E02B6A01C300172C62 /* viewModel */ = {
+			isa = PBXGroup;
+			children = (
+				9B3098DC2B68FFFE00172C62 /* ModelDataManager.swift */,
+				9B3098E12B6A01E100172C62 /* NavigationStateManager.swift */,
+			);
+			path = viewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +219,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B3098C92B68E67C00172C62 /* FirstTabView.swift in Sources */,
+				9B3098CC2B68EC3400172C62 /* DetailView.swift in Sources */,
+				9B3098DB2B68FF5A00172C62 /* Movie.swift in Sources */,
+				9B3098CF2B68F79D00172C62 /* Book.swift in Sources */,
+				9B3098DF2B6900F400172C62 /* RootView.swift in Sources */,
+				9B3098C52B679B5600172C62 /* FlowVM.swift in Sources */,
+				9B3098D22B68F8BD00172C62 /* SecondTabView.swift in Sources */,
+				9B3098D92B68FF5000172C62 /* Song.swift in Sources */,
+				9B3098E22B6A01E100172C62 /* NavigationStateManager.swift in Sources */,
+				9B3098E42B6A153000172C62 /* SettingsView.swift in Sources */,
 				9B3098B92B6795C300172C62 /* ContentView.swift in Sources */,
+				9B3098D72B68FF2C00172C62 /* ThirdTabView.swift in Sources */,
+				9B3098DD2B68FFFE00172C62 /* ModelDataManager.swift in Sources */,
+				9B3098D42B68FA1600172C62 /* BookDestinationView.swift in Sources */,
 				9B3098B72B6795C300172C62 /* NavigationStackApp.swift in Sources */,
+				9B3098C72B68BEBF00172C62 /* HomeVM.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
